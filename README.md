@@ -52,6 +52,7 @@ dt.predict([[.5,.8,9,260,6,0,1,2]])
 ![decision tree classifier model](./output/s1.png)
 ### Null Values:
 ![decision tree classifier model](./output/s2.png)
+
 ![decision tree classifier model](./output/s3.png)
 ### preprocessing LabelEncoder:
 ![decision tree classifier model](./output/s4.png)
